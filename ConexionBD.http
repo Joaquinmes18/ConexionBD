@@ -1,0 +1,6 @@
+@ConexionBD_HostAddress = http://localhost:5018
+
+GET {{ConexionBD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
