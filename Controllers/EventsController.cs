@@ -2,7 +2,7 @@
 using apiwithdb.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace apiwithdb.Controllers
+namespace ConexionBD.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
