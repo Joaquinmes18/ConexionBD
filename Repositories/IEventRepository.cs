@@ -1,6 +1,6 @@
-﻿using apiwithdb.Models;
+﻿using ConexionBD.Models;
 
-namespace apiwithdb.Repositories
+namespace ConexionBD.Repositories
 {
     public interface IEventRepository
     {
