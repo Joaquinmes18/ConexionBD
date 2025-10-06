@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace apiwithdb.Models.dtos
+namespace ConexionBD.Models.dtos
 {
     public record CreateEventDto
     {
