@@ -1,4 +1,4 @@
-﻿namespace apiwithdb.Models
+﻿namespace ConexionBD.Models
 {
     public class Event
     {
