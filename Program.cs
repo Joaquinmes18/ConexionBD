@@ -1,5 +1,5 @@
-using apiwithdb.Repositories;
-using apiwithdb.Services;
+using ConexionBD.Repositories;
+using ConexionBD.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
