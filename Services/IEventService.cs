@@ -1,7 +1,7 @@
-﻿using apiwithdb.Models;
-using apiwithdb.Models.dtos;
+﻿using ConexionBD.Models;
+using ConexionBD.Models.dtos;
 
-namespace apiwithdb.Services
+namespace ConexionBD.Services
 {
     public interface IEventService
     {
