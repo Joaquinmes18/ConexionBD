@@ -1,5 +1,5 @@
-﻿using apiwithdb.Models.dtos;
-using apiwithdb.Services;
+﻿using ConexionBD.Models.dtos;
+using ConexionBD.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ConexionBD.Controllers
