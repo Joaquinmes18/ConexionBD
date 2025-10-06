@@ -1,8 +1,8 @@
-﻿using apiwithdb.Models;
-using apiwithdb.Models.dtos;
-using apiwithdb.Repositories;
+﻿using ConexionBD.Models;
+using ConexionBD.Models.dtos;
+using ConexionBD.Repositories;
 
-namespace apiwithdb.Services
+namespace ConexionBD.Services
 {
     public class EventService : IEventService
     {
